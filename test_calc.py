@@ -46,8 +46,5 @@ class TestCalc(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
 
